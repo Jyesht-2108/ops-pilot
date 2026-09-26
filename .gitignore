@@ -1,0 +1,9 @@
+.env
+.env.*
+__pycache__/
+*.pyc
+.pytest_cache/
+.venv/
+venv/
+AWS_ACCESS_KEY_ID
+AWS_SECRET_ACCESS_KEY
