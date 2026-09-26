@@ -1,0 +1,4 @@
+mcp[cli]
+daytona==0.218.0
+httpx
+python-dotenv
