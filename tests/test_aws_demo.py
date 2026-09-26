@@ -1,4 +1,4 @@
-from mcp.aws.tools import (
+from opspilot_mcp.aws.tools import (
     scan_idle_resources,
     inspect_resource,
     estimate_resource_cost,

@@ -1,12 +1,12 @@
 from datetime import datetime, timezone, timedelta
 
-from mcp.aws.client import (
+from opspilot_mcp.aws.client import (
     get_ec2_client,
     get_cloudwatch_client,
     get_elbv2_client,
 )
 
-from mcp.aws.cost import (
+from opspilot_mcp.aws.cost import (
     estimate_ebs_monthly_cost,
     estimate_alb_monthly_cost,
 )

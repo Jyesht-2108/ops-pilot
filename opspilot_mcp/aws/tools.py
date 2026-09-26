@@ -1,4 +1,4 @@
-from mcp.aws.resources import (
+from opspilot_mcp.aws.resources import (
     scan_idle_resources as _scan_idle_resources,
 )
 
